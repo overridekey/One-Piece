@@ -4,5 +4,33 @@
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1696785706",
+      "groups": {
+        "": [
+          "https://imgur.com/Cr0bune",
+          "https://imgur.com/ws8N3p2",
+          "https://imgur.com/s5BzXGi",
+          "https://imgur.com/NBp2Sc3",
+          "https://imgur.com/UF9kTQI",
+          "https://imgur.com/f7zRhEc",
+          "https://imgur.com/gmWd01J",
+          "https://imgur.com/4snKLSD",
+          "https://imgur.com/AjQOgfv",
+          "https://imgur.com/0WOwad0",
+          "https://imgur.com/2AxF9iy",
+          "https://imgur.com/HRqeX05",
+          "https://imgur.com/DQpm7cK",
+          "https://imgur.com/IWFOkly",
+          "https://imgur.com/eXQ47vv",
+          "https://imgur.com/wy5eGh8",
+          "https://imgur.com/ZRWLPRO",
+          ""
+        ]
+      }
+    }
+  }
 }
